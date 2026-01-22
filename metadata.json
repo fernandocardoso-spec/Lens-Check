@@ -1,0 +1,5 @@
+{
+  "name": "LensCheck - Verificação de Calibração",
+  "description": "Aplicativo profissional para verificação remota de calibração de lensômetros através de gabarito de lentes padrão.",
+  "requestFramePermissions": []
+}
